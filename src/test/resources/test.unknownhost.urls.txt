@@ -1,0 +1,2 @@
+"Rank","URL","Linking Root Domains","External Links","mozRank","mozTrust"
+10,"badlink.xyz/",2340965,569397042,8.65,8.60
